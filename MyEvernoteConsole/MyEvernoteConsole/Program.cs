@@ -17,6 +17,7 @@ namespace MyEvernoteConsole
             // write code here too 4..
 
             // development..
+            // some bug-fix
         }
     }
 }
